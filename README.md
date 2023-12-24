@@ -1,2 +1,4 @@
 # HODE-for-runoff-modeling
-None
+ 
+Hybrid neural Ordinary Differential Equations: Improving Hydrological Prediction and Process Understanding via Integration of Process-based and Data-driven approaches
+
